@@ -1,0 +1,547 @@
+brand,product,day_of_week,name,location,holiday,sales,cost
+b1,p1,sat,A,hn,tet,9,16.52
+b1,p1,sat,B,ct,tet,13,26.68
+b1,p1,sat,C,ct,tet,19,8.23
+b1,p1,sat,B,ct,tet,27,12.92
+b1,p1,sat,A,ct,tet,42,18.02
+b1,p1,sat,C,ct,tet,17,13.44
+b1,p1,sat,D,ct,tet,30,13.56
+b2,p2,sat,D,sg,tet,32,12.17
+b3,p3,sat,A,sg,tet,15,9.0
+b3,p3,sat,D,hn,tet,34,15.36
+b3,p3,sat,A,hn,tet,25,16.98
+b3,p3,sat,B,ct,tet,29,14.33
+b4,p4,sat,A,sg,tet,15,11.44
+b7,p2,sat,C,sg,tet,20,9.19
+b7,p2,sat,B,ct,tet,29,16.47
+b7,p2,sat,A,hn,tet,14,10.8
+b8,p3,sat,B,ct,tet,28,8.91
+b8,p3,sat,B,sg,tet,25,14.09
+b8,p3,sat,D,ct,tet,22,12.92
+b9,p4,sat,B,ct,tet,8,15.6
+b9,p4,sat,A,sg,tet,15,12.31
+b1,p1,sat,A,hn,independence,4,18.59
+b4,p4,sat,D,sg,independence,19,12.96
+b5,p0,sat,B,ct,independence,31,17.65
+b6,p1,sat,A,sg,independence,32,13.05
+b8,p3,sat,C,ct,independence,19,10.08
+b8,p3,sat,C,sg,independence,24,16.81
+b9,p4,sat,C,ct,independence,18,10.13
+b9,p4,sat,D,hn,independence,17,13.44
+b1,p1,sat,C,sg,no holiday,4,16.11
+b1,p1,sat,D,hn,no holiday,28,8.21
+b1,p1,sat,B,hn,no holiday,21,15.79
+b1,p1,sat,C,hn,no holiday,23,10.59
+b1,p1,sat,A,sg,no holiday,6,12.91
+b2,p2,sat,A,sg,no holiday,8,9.42
+b2,p2,sat,C,hn,no holiday,20,16.88
+b2,p2,sat,D,ct,no holiday,16,10.4
+b2,p2,sat,D,ct,no holiday,19,3.56
+b3,p3,sat,D,hn,no holiday,29,9.43
+b3,p3,sat,D,hn,no holiday,13,6.29
+b3,p3,sat,A,hn,no holiday,19,13.4
+b3,p3,sat,B,sg,no holiday,24,11.53
+b4,p4,sat,A,sg,no holiday,19,8.6
+b4,p4,sat,A,hn,no holiday,23,12.52
+b5,p0,sat,C,hn,no holiday,22,15.27
+b5,p0,sat,D,sg,no holiday,7,18.78
+b6,p1,sat,A,ct,no holiday,33,7.27
+b6,p1,sat,A,sg,no holiday,22,3.54
+b6,p1,sat,B,hn,no holiday,9,11.87
+b6,p1,sat,A,ct,no holiday,10,13.14
+b6,p1,sat,B,hn,no holiday,31,7.98
+b6,p1,sat,D,ct,no holiday,14,5.78
+b6,p1,sat,C,ct,no holiday,30,15.9
+b7,p2,sat,A,sg,no holiday,9,4.21
+b7,p2,sat,A,ct,no holiday,21,8.29
+b7,p2,sat,D,ct,no holiday,19,14.99
+b7,p2,sat,A,sg,no holiday,37,6.45
+b8,p3,sat,C,sg,no holiday,19,8.51
+b9,p4,sat,B,hn,no holiday,14,9.19
+b9,p4,sat,C,sg,no holiday,29,6.84
+b9,p4,sat,D,sg,no holiday,6,11.23
+b10,p0,sat,C,hn,no holiday,19,8.08
+b10,p0,sat,A,sg,no holiday,9,9.31
+b10,p0,sat,A,ct,no holiday,29,11.63
+b10,p0,sat,D,sg,no holiday,7,16.0
+b2,p2,sun,A,sg,tet,49,19.98
+b2,p2,sun,A,ct,tet,31,8.36
+b4,p4,sun,A,sg,tet,20,14.74
+b5,p0,sun,C,sg,tet,21,11.24
+b5,p0,sun,C,ct,tet,28,14.88
+b6,p1,sun,C,ct,tet,47,15.01
+b6,p1,sun,A,sg,tet,4,14.61
+b7,p2,sun,D,ct,tet,25,10.0
+b7,p2,sun,B,sg,tet,39,20.08
+b9,p4,sun,C,hn,tet,35,21.66
+b10,p0,sun,D,sg,tet,30,10.48
+b3,p3,sun,D,ct,independence,15,20.97
+b9,p4,sun,D,hn,independence,8,16.7
+b10,p0,sun,D,sg,independence,11,8.4
+b1,p1,sun,B,ct,no holiday,4,9.41
+b1,p1,sun,B,ct,no holiday,6,10.14
+b1,p1,sun,C,sg,no holiday,17,14.16
+b2,p2,sun,A,hn,no holiday,26,13.92
+b2,p2,sun,C,sg,no holiday,12,6.75
+b2,p2,sun,D,ct,no holiday,6,10.56
+b2,p2,sun,A,hn,no holiday,18,15.16
+b2,p2,sun,D,sg,no holiday,19,2.67
+b3,p3,sun,D,sg,no holiday,24,17.73
+b3,p3,sun,D,hn,no holiday,16,6.08
+b3,p3,sun,C,hn,no holiday,20,18.82
+b3,p3,sun,A,ct,no holiday,16,13.94
+b4,p4,sun,D,hn,no holiday,21,21.99
+b4,p4,sun,C,hn,no holiday,27,10.94
+b4,p4,sun,C,hn,no holiday,10,17.02
+b4,p4,sun,B,ct,no holiday,17,13.71
+b5,p0,sun,C,sg,no holiday,14,3.57
+b5,p0,sun,B,ct,no holiday,19,11.39
+b6,p1,sun,D,hn,no holiday,6,11.52
+b6,p1,sun,B,hn,no holiday,18,11.07
+b6,p1,sun,A,sg,no holiday,4,10.49
+b6,p1,sun,C,ct,no holiday,13,9.79
+b7,p2,sun,D,ct,no holiday,8,10.17
+b7,p2,sun,C,sg,no holiday,23,8.17
+b7,p2,sun,D,hn,no holiday,6,11.4
+b8,p3,sun,D,ct,no holiday,6,7.43
+b8,p3,sun,B,ct,no holiday,27,13.91
+b8,p3,sun,A,hn,no holiday,27,16.4
+b8,p3,sun,A,ct,no holiday,15,6.06
+b8,p3,sun,B,sg,no holiday,29,15.02
+b9,p4,sun,A,ct,no holiday,26,14.12
+b9,p4,sun,D,hn,no holiday,26,12.82
+b10,p0,sun,D,ct,no holiday,29,1.77
+b10,p0,sun,B,ct,no holiday,13,12.52
+b10,p0,sun,A,ct,no holiday,8,17.65
+b10,p0,sun,A,ct,no holiday,15,8.45
+b1,p1,sat,A,hn,tet,7,16.27
+b1,p1,tue,B,sg,tet,27,9.93
+b1,p1,sat,B,ct,tet,5,24.08
+b1,p1,thu,C,sg,tet,20,13.43
+b1,p1,fri,C,hn,tet,35,17.7
+b1,p1,tue,C,ct,tet,14,10.93
+b1,p1,wed,C,hn,tet,19,17.3
+b1,p1,fri,B,ct,tet,17,13.96
+b1,p1,sat,C,ct,tet,17,8.06
+b1,p1,sat,B,ct,tet,19,12.26
+b1,p1,sat,A,ct,tet,35,15.9
+b1,p1,fri,A,hn,tet,25,16.8
+b1,p1,thu,A,hn,tet,26,19.05
+b1,p1,sat,C,ct,tet,8,13.17
+b1,p1,sat,D,ct,tet,28,12.33
+b1,p1,wed,C,hn,tet,36,13.67
+b1,p1,wed,D,hn,tet,11,19.11
+b2,p2,tue,B,sg,tet,30,15.91
+b2,p2,fri,D,hn,tet,38,18.83
+b2,p2,sun,A,sg,tet,47,17.37
+b2,p2,fri,A,sg,tet,40,16.57
+b2,p2,fri,D,sg,tet,16,16.56
+b2,p2,fri,C,ct,tet,30,27.33
+b2,p2,wed,B,ct,tet,14,14.78
+b2,p2,mon,C,sg,tet,46,18.2
+b2,p2,sat,D,sg,tet,30,10.3
+b2,p2,mon,A,sg,tet,20,14.13
+b2,p2,sun,A,ct,tet,28,5.79
+b3,p3,mon,D,sg,tet,43,14.73
+b3,p3,sat,A,sg,tet,12,8.52
+b3,p3,tue,A,sg,tet,30,13.39
+b3,p3,fri,C,ct,tet,27,13.05
+b3,p3,sat,D,hn,tet,33,13.32
+b3,p3,tue,A,ct,tet,20,10.02
+b3,p3,mon,D,ct,tet,35,13.89
+b3,p3,sat,A,hn,tet,20,14.96
+b3,p3,sat,B,ct,tet,22,12.85
+b3,p3,fri,C,ct,tet,26,18.7
+b3,p3,wed,C,hn,tet,2,7.4
+b3,p3,thu,C,hn,tet,11,6.46
+b4,p4,mon,C,sg,tet,30,15.45
+b4,p4,wed,C,hn,tet,23,14.97
+b4,p4,sat,A,sg,tet,14,10.92
+b4,p4,mon,B,hn,tet,22,8.86
+b4,p4,tue,B,sg,tet,26,12.62
+b4,p4,wed,B,hn,tet,17,17.75
+b4,p4,sun,A,sg,tet,18,12.26
+b5,p0,wed,A,ct,tet,18,26.12
+b5,p0,fri,A,sg,tet,36,18.41
+b5,p0,sun,C,sg,tet,17,8.68
+b5,p0,sun,C,ct,tet,25,12.84
+b5,p0,mon,A,hn,tet,11,16.35
+b5,p0,wed,B,hn,tet,10,17.5
+b5,p0,wed,B,sg,tet,28,14.72
+b5,p0,fri,A,sg,tet,29,12.9
+b5,p0,thu,C,sg,tet,32,11.38
+b5,p0,fri,B,ct,tet,17,8.45
+b6,p1,sun,C,ct,tet,44,12.66
+b6,p1,sun,A,sg,tet,1,14.29
+b6,p1,thu,D,ct,tet,44,11.8
+b6,p1,thu,B,sg,tet,18,9.6
+b6,p1,tue,A,ct,tet,36,18.87
+b6,p1,mon,C,sg,tet,39,6.42
+b7,p2,mon,D,ct,tet,20,13.5
+b7,p2,mon,D,hn,tet,26,15.71
+b7,p2,sat,C,sg,tet,19,8.31
+b7,p2,fri,D,ct,tet,41,15.88
+b7,p2,sun,D,ct,tet,22,8.02
+b7,p2,thu,A,sg,tet,7,11.6
+b7,p2,thu,A,hn,tet,37,15.32
+b7,p2,sat,B,ct,tet,25,14.31
+b7,p2,sat,A,hn,tet,9,9.39
+b7,p2,fri,A,sg,tet,37,23.05
+b7,p2,thu,C,sg,tet,15,20.61
+b7,p2,thu,A,hn,tet,8,22.55
+b7,p2,sun,B,sg,tet,37,15.98
+b7,p2,thu,B,sg,tet,22,26.91
+b7,p2,thu,D,ct,tet,25,19.45
+b8,p3,mon,D,sg,tet,39,14.52
+b8,p3,fri,B,hn,tet,46,16.45
+b8,p3,tue,C,sg,tet,31,16.94
+b8,p3,tue,A,ct,tet,31,5.48
+b8,p3,sat,B,ct,tet,23,8.6
+b8,p3,tue,C,hn,tet,35,17.87
+b8,p3,sat,B,sg,tet,20,11.38
+b8,p3,fri,D,ct,tet,26,12.61
+b8,p3,wed,D,ct,tet,15,9.55
+b8,p3,sat,D,ct,tet,22,12.7
+b9,p4,sat,B,ct,tet,8,12.55
+b9,p4,fri,A,sg,tet,28,17.57
+b9,p4,fri,A,sg,tet,27,24.9
+b9,p4,wed,A,hn,tet,22,13.67
+b9,p4,mon,B,ct,tet,36,11.71
+b9,p4,sun,C,hn,tet,32,19.56
+b9,p4,wed,B,sg,tet,42,11.53
+b9,p4,wed,C,hn,tet,26,9.5
+b9,p4,sat,A,sg,tet,11,11.68
+b9,p4,wed,A,hn,tet,28,13.57
+b9,p4,fri,B,ct,tet,28,10.0
+b10,p0,thu,A,hn,tet,20,5.03
+b10,p0,tue,A,hn,tet,35,13.56
+b10,p0,tue,B,ct,tet,44,24.23
+b10,p0,tue,B,sg,tet,32,14.84
+b10,p0,sun,D,sg,tet,26,9.97
+b10,p0,fri,D,sg,tet,33,18.2
+b10,p0,wed,D,hn,tet,12,8.13
+b10,p0,tue,C,hn,tet,30,16.63
+b10,p0,wed,B,hn,tet,9,12.41
+b1,p1,tue,A,ct,independence,23,14.93
+b1,p1,tue,C,hn,independence,33,5.98
+b1,p1,sat,A,hn,independence,3,17.21
+b1,p1,fri,A,hn,independence,23,17.64
+b2,p2,mon,A,hn,independence,13,15.35
+b2,p2,mon,A,hn,independence,12,11.86
+b2,p2,wed,B,ct,independence,37,12.16
+b2,p2,mon,C,hn,independence,16,14.78
+b3,p3,tue,D,ct,independence,19,11.39
+b3,p3,wed,B,hn,independence,34,9.06
+b3,p3,thu,D,hn,independence,25,9.04
+b3,p3,fri,D,sg,independence,31,4.59
+b3,p3,tue,C,ct,independence,15,12.56
+b3,p3,fri,B,ct,independence,14,16.26
+b3,p3,fri,C,hn,independence,34,12.3
+b3,p3,sun,D,ct,independence,15,18.84
+b4,p4,thu,B,sg,independence,36,21.97
+b4,p4,tue,D,ct,independence,14,18.15
+b4,p4,thu,B,sg,independence,9,8.26
+b4,p4,sat,D,sg,independence,10,12.46
+b4,p4,wed,B,sg,independence,19,13.46
+b5,p0,mon,C,hn,independence,21,12.89
+b5,p0,thu,B,hn,independence,9,8.64
+b5,p0,sat,B,ct,independence,25,16.46
+b6,p1,sat,A,sg,independence,24,12.91
+b6,p1,wed,A,hn,independence,16,16.18
+b6,p1,mon,C,ct,independence,17,17.85
+b6,p1,thu,B,hn,independence,0,10.62
+b6,p1,fri,D,sg,independence,24,20.61
+b6,p1,tue,C,ct,independence,3,9.05
+b7,p2,mon,A,sg,independence,28,11.95
+b7,p2,wed,D,ct,independence,17,10.03
+b8,p3,fri,B,hn,independence,4,3.11
+b8,p3,sat,C,ct,independence,14,9.02
+b8,p3,wed,A,ct,independence,36,18.64
+b8,p3,fri,D,ct,independence,12,15.86
+b8,p3,tue,C,sg,independence,9,9.55
+b8,p3,sat,C,sg,independence,24,15.44
+b9,p4,tue,D,hn,independence,26,18.26
+b9,p4,thu,A,ct,independence,18,7.66
+b9,p4,sat,C,ct,independence,10,6.73
+b9,p4,sun,D,hn,independence,4,15.79
+b9,p4,fri,B,hn,independence,6,12.89
+b9,p4,tue,B,sg,independence,18,15.39
+b9,p4,sat,D,hn,independence,10,12.89
+b9,p4,tue,C,hn,independence,1,12.08
+b10,p0,thu,D,ct,independence,16,14.04
+b10,p0,mon,C,hn,independence,28,8.44
+b10,p0,thu,C,sg,independence,31,13.37
+b10,p0,mon,C,ct,independence,16,4.27
+b10,p0,thu,C,hn,independence,3,11.48
+b10,p0,sun,D,sg,independence,7,6.63
+b1,p1,wed,C,hn,no holiday,26,15.13
+b1,p1,mon,D,sg,no holiday,8,14.1
+b1,p1,wed,D,hn,no holiday,16,8.84
+b1,p1,fri,A,ct,no holiday,13,7.35
+b1,p1,tue,C,sg,no holiday,6,12.49
+b1,p1,thu,D,sg,no holiday,21,13.87
+b1,p1,thu,B,ct,no holiday,12,8.23
+b1,p1,sat,C,sg,no holiday,0,15.23
+b1,p1,tue,B,hn,no holiday,1,10.8
+b1,p1,mon,B,hn,no holiday,15,7.26
+b1,p1,tue,C,hn,no holiday,22,12.67
+b1,p1,tue,A,ct,no holiday,15,8.0
+b1,p1,sun,B,ct,no holiday,3,8.98
+b1,p1,fri,A,ct,no holiday,0,11.72
+b1,p1,mon,D,sg,no holiday,5,16.42
+b1,p1,sat,D,hn,no holiday,25,8.07
+b1,p1,tue,A,ct,no holiday,11,17.61
+b1,p1,tue,A,sg,no holiday,1,10.62
+b1,p1,sat,B,hn,no holiday,12,12.45
+b1,p1,mon,D,hn,no holiday,27,6.26
+b1,p1,mon,A,hn,no holiday,14,15.02
+b1,p1,sat,C,hn,no holiday,18,9.3
+b1,p1,thu,D,sg,no holiday,11,7.76
+b1,p1,sun,B,ct,no holiday,2,7.28
+b1,p1,thu,D,hn,no holiday,24,8.4
+b1,p1,sat,A,sg,no holiday,6,10.78
+b1,p1,wed,C,sg,no holiday,7,11.48
+b1,p1,sun,C,sg,no holiday,14,11.83
+b1,p1,tue,D,ct,no holiday,18,19.57
+b1,p1,tue,D,ct,no holiday,25,11.0
+b2,p2,sun,A,hn,no holiday,23,11.27
+b2,p2,fri,C,sg,no holiday,5,9.55
+b2,p2,wed,C,sg,no holiday,24,7.5
+b2,p2,mon,A,ct,no holiday,0,12.29
+b2,p2,tue,D,ct,no holiday,26,13.57
+b2,p2,sun,C,sg,no holiday,9,6.31
+b2,p2,mon,D,ct,no holiday,16,9.95
+b2,p2,sat,A,sg,no holiday,8,8.58
+b2,p2,sat,C,hn,no holiday,17,16.84
+b2,p2,sun,D,ct,no holiday,5,9.09
+b2,p2,mon,D,sg,no holiday,26,7.73
+b2,p2,sun,A,hn,no holiday,18,13.06
+b2,p2,mon,C,ct,no holiday,22,12.12
+b2,p2,fri,C,ct,no holiday,26,5.69
+b2,p2,tue,A,ct,no holiday,6,12.26
+b2,p2,thu,A,hn,no holiday,3,14.33
+b2,p2,fri,D,ct,no holiday,22,15.67
+b2,p2,thu,C,hn,no holiday,26,8.55
+b2,p2,sat,D,ct,no holiday,8,8.94
+b2,p2,tue,D,sg,no holiday,24,3.87
+b2,p2,thu,B,ct,no holiday,3,5.23
+b2,p2,sun,D,sg,no holiday,19,1.31
+b2,p2,mon,B,hn,no holiday,24,5.62
+b2,p2,sat,D,ct,no holiday,14,2.53
+b2,p2,tue,B,hn,no holiday,15,10.21
+b2,p2,fri,B,ct,no holiday,14,12.95
+b2,p2,wed,B,hn,no holiday,6,13.08
+b3,p3,sun,D,sg,no holiday,21,15.98
+b3,p3,thu,D,hn,no holiday,23,6.16
+b3,p3,wed,A,hn,no holiday,20,12.62
+b3,p3,fri,D,sg,no holiday,24,11.29
+b3,p3,sat,D,hn,no holiday,23,9.17
+b3,p3,sat,D,hn,no holiday,11,6.12
+b3,p3,wed,D,ct,no holiday,28,11.6
+b3,p3,mon,C,ct,no holiday,11,3.31
+b3,p3,wed,A,sg,no holiday,3,15.0
+b3,p3,wed,B,hn,no holiday,9,7.77
+b3,p3,fri,D,ct,no holiday,23,1.88
+b3,p3,thu,C,sg,no holiday,11,15.71
+b3,p3,thu,D,sg,no holiday,12,9.63
+b3,p3,sat,A,hn,no holiday,16,11.33
+b3,p3,mon,C,sg,no holiday,17,15.93
+b3,p3,sun,D,hn,no holiday,14,4.67
+b3,p3,wed,B,sg,no holiday,28,15.29
+b3,p3,tue,A,hn,no holiday,22,8.95
+b3,p3,mon,B,ct,no holiday,24,16.61
+b3,p3,fri,B,sg,no holiday,16,7.07
+b3,p3,sun,C,hn,no holiday,17,16.6
+b3,p3,sat,B,sg,no holiday,24,10.43
+b3,p3,sun,A,ct,no holiday,15,11.01
+b3,p3,fri,A,hn,no holiday,23,0.81
+b4,p4,sun,D,hn,no holiday,21,18.85
+b4,p4,thu,A,hn,no holiday,7,9.92
+b4,p4,mon,A,sg,no holiday,25,13.19
+b4,p4,thu,D,ct,no holiday,9,9.29
+b4,p4,wed,C,sg,no holiday,24,9.85
+b4,p4,fri,B,ct,no holiday,15,15.03
+b4,p4,thu,A,hn,no holiday,4,13.63
+b4,p4,thu,C,hn,no holiday,17,6.7
+b4,p4,tue,A,ct,no holiday,13,8.17
+b4,p4,thu,B,sg,no holiday,22,9.08
+b4,p4,sun,C,hn,no holiday,25,8.63
+b4,p4,sat,A,sg,no holiday,13,8.35
+b4,p4,wed,A,ct,no holiday,26,3.63
+b4,p4,fri,A,ct,no holiday,7,5.88
+b4,p4,thu,C,sg,no holiday,11,6.94
+b4,p4,mon,A,ct,no holiday,29,9.55
+b4,p4,sun,C,hn,no holiday,7,15.08
+b4,p4,wed,B,ct,no holiday,2,10.76
+b4,p4,mon,B,sg,no holiday,21,8.42
+b4,p4,mon,A,sg,no holiday,18,0.48
+b4,p4,sat,A,hn,no holiday,19,10.37
+b4,p4,sun,B,ct,no holiday,13,12.79
+b4,p4,mon,A,sg,no holiday,24,16.08
+b5,p0,mon,B,hn,no holiday,17,9.99
+b5,p0,fri,A,sg,no holiday,12,7.8
+b5,p0,fri,A,sg,no holiday,14,12.72
+b5,p0,fri,D,ct,no holiday,13,11.36
+b5,p0,tue,B,ct,no holiday,23,7.71
+b5,p0,fri,A,ct,no holiday,23,5.05
+b5,p0,tue,B,ct,no holiday,26,10.89
+b5,p0,fri,D,hn,no holiday,23,10.15
+b5,p0,mon,D,sg,no holiday,24,11.3
+b5,p0,sat,C,hn,no holiday,17,13.91
+b5,p0,mon,D,hn,no holiday,23,14.55
+b5,p0,fri,D,hn,no holiday,7,11.7
+b5,p0,mon,B,ct,no holiday,21,14.38
+b5,p0,sun,C,sg,no holiday,10,1.94
+b5,p0,sat,D,sg,no holiday,5,16.3
+b5,p0,thu,A,hn,no holiday,13,9.22
+b5,p0,mon,B,sg,no holiday,8,5.52
+b5,p0,mon,D,hn,no holiday,4,5.26
+b5,p0,sun,B,ct,no holiday,15,7.13
+b5,p0,fri,B,sg,no holiday,16,6.79
+b6,p1,sat,A,ct,no holiday,29,6.14
+b6,p1,thu,D,hn,no holiday,12,10.47
+b6,p1,tue,C,sg,no holiday,8,8.15
+b6,p1,tue,A,hn,no holiday,3,9.72
+b6,p1,thu,D,ct,no holiday,18,10.5
+b6,p1,wed,B,sg,no holiday,12,4.86
+b6,p1,thu,B,sg,no holiday,8,5.04
+b6,p1,sun,D,hn,no holiday,5,8.15
+b6,p1,wed,C,sg,no holiday,18,7.43
+b6,p1,sat,A,sg,no holiday,16,2.35
+b6,p1,fri,C,ct,no holiday,5,6.43
+b6,p1,thu,D,sg,no holiday,25,10.93
+b6,p1,thu,D,hn,no holiday,2,13.12
+b6,p1,mon,D,ct,no holiday,27,8.06
+b6,p1,thu,D,sg,no holiday,8,11.54
+b6,p1,sat,B,hn,no holiday,0,9.46
+b6,p1,mon,B,sg,no holiday,25,10.22
+b6,p1,wed,C,ct,no holiday,5,13.3
+b6,p1,sun,B,hn,no holiday,14,9.31
+b6,p1,thu,B,sg,no holiday,6,9.95
+b6,p1,thu,A,ct,no holiday,23,9.52
+b6,p1,fri,B,hn,no holiday,11,10.22
+b6,p1,sat,A,ct,no holiday,1,12.09
+b6,p1,fri,D,ct,no holiday,11,8.71
+b6,p1,mon,A,ct,no holiday,9,10.12
+b6,p1,sat,B,hn,no holiday,22,7.98
+b6,p1,fri,D,ct,no holiday,9,7.27
+b6,p1,sat,D,ct,no holiday,10,4.14
+b6,p1,thu,D,sg,no holiday,27,7.01
+b6,p1,mon,C,hn,no holiday,20,6.22
+b6,p1,wed,D,hn,no holiday,6,9.56
+b6,p1,mon,D,hn,no holiday,9,15.1
+b6,p1,mon,C,sg,no holiday,16,5.74
+b6,p1,sun,A,sg,no holiday,4,9.41
+b6,p1,fri,C,ct,no holiday,18,13.74
+b6,p1,mon,B,hn,no holiday,24,9.45
+b6,p1,thu,C,hn,no holiday,2,14.39
+b6,p1,mon,D,ct,no holiday,21,5.09
+b6,p1,tue,B,ct,no holiday,5,12.66
+b6,p1,mon,B,sg,no holiday,10,1.53
+b6,p1,sun,C,ct,no holiday,9,6.9
+b6,p1,mon,A,hn,no holiday,27,10.68
+b6,p1,sat,C,ct,no holiday,26,15.36
+b6,p1,fri,D,hn,no holiday,11,4.72
+b6,p1,mon,C,sg,no holiday,29,5.29
+b7,p2,tue,D,ct,no holiday,11,8.12
+b7,p2,fri,D,hn,no holiday,11,18.06
+b7,p2,fri,C,ct,no holiday,19,14.08
+b7,p2,tue,A,hn,no holiday,29,3.13
+b7,p2,wed,C,sg,no holiday,24,6.44
+b7,p2,sat,A,sg,no holiday,9,3.82
+b7,p2,fri,A,sg,no holiday,6,8.84
+b7,p2,thu,A,sg,no holiday,28,7.27
+b7,p2,sat,A,ct,no holiday,19,6.66
+b7,p2,fri,C,ct,no holiday,24,4.54
+b7,p2,tue,C,sg,no holiday,10,0.87
+b7,p2,wed,A,sg,no holiday,20,12.41
+b7,p2,sun,D,ct,no holiday,6,7.78
+b7,p2,tue,C,hn,no holiday,8,11.22
+b7,p2,thu,C,hn,no holiday,5,9.22
+b7,p2,wed,A,sg,no holiday,22,9.54
+b7,p2,mon,B,ct,no holiday,28,5.34
+b7,p2,wed,D,sg,no holiday,3,14.43
+b7,p2,fri,A,sg,no holiday,2,15.8
+b7,p2,tue,D,ct,no holiday,20,6.6
+b7,p2,mon,B,hn,no holiday,13,6.72
+b7,p2,sat,D,ct,no holiday,18,14.41
+b7,p2,sat,A,sg,no holiday,29,6.39
+b7,p2,tue,C,hn,no holiday,24,12.95
+b7,p2,mon,A,sg,no holiday,19,18.15
+b7,p2,thu,B,ct,no holiday,1,8.03
+b7,p2,sun,C,sg,no holiday,19,7.61
+b7,p2,tue,C,sg,no holiday,10,11.5
+b7,p2,sun,D,hn,no holiday,4,7.96
+b7,p2,thu,A,ct,no holiday,27,7.85
+b8,p3,wed,C,hn,no holiday,4,15.05
+b8,p3,sun,D,ct,no holiday,5,4.6
+b8,p3,mon,B,hn,no holiday,3,11.01
+b8,p3,sun,B,ct,no holiday,24,12.52
+b8,p3,sun,A,hn,no holiday,26,13.29
+b8,p3,thu,D,sg,no holiday,17,10.1
+b8,p3,tue,A,sg,no holiday,12,5.18
+b8,p3,sun,A,ct,no holiday,11,4.45
+b8,p3,fri,A,sg,no holiday,2,10.41
+b8,p3,sun,B,sg,no holiday,29,11.45
+b8,p3,fri,C,hn,no holiday,24,7.36
+b8,p3,tue,C,sg,no holiday,25,6.69
+b8,p3,mon,A,ct,no holiday,0,7.1
+b8,p3,thu,D,sg,no holiday,19,6.71
+b8,p3,thu,D,ct,no holiday,14,6.82
+b8,p3,wed,B,ct,no holiday,6,6.1
+b8,p3,thu,D,hn,no holiday,16,13.19
+b8,p3,tue,D,ct,no holiday,17,13.0
+b8,p3,tue,C,sg,no holiday,7,10.86
+b8,p3,sat,C,sg,no holiday,14,7.77
+b8,p3,thu,A,ct,no holiday,27,7.29
+b8,p3,fri,A,hn,no holiday,18,5.47
+b8,p3,wed,B,sg,no holiday,15,11.82
+b9,p4,mon,A,sg,no holiday,29,16.73
+b9,p4,fri,D,sg,no holiday,13,8.47
+b9,p4,sat,B,hn,no holiday,5,8.39
+b9,p4,wed,B,sg,no holiday,8,7.6
+b9,p4,mon,B,sg,no holiday,7,10.75
+b9,p4,sat,C,sg,no holiday,20,5.28
+b9,p4,tue,D,hn,no holiday,8,10.99
+b9,p4,wed,A,sg,no holiday,20,3.45
+b9,p4,wed,B,ct,no holiday,20,10.11
+b9,p4,thu,D,ct,no holiday,25,6.43
+b9,p4,mon,A,hn,no holiday,12,4.5
+b9,p4,wed,D,hn,no holiday,9,10.11
+b9,p4,fri,C,ct,no holiday,14,11.37
+b9,p4,tue,C,sg,no holiday,2,10.05
+b9,p4,thu,B,sg,no holiday,3,14.42
+b9,p4,tue,A,hn,no holiday,3,1.78
+b9,p4,fri,B,ct,no holiday,18,8.4
+b9,p4,tue,D,sg,no holiday,3,11.37
+b9,p4,tue,B,sg,no holiday,13,6.57
+b9,p4,fri,C,ct,no holiday,22,11.8
+b9,p4,sat,D,sg,no holiday,0,10.49
+b9,p4,wed,C,hn,no holiday,22,12.58
+b9,p4,wed,C,sg,no holiday,12,9.68
+b9,p4,sun,A,ct,no holiday,25,12.24
+b9,p4,wed,C,ct,no holiday,6,8.24
+b9,p4,sun,D,hn,no holiday,25,8.85
+b9,p4,fri,D,sg,no holiday,13,12.61
+b9,p4,thu,D,sg,no holiday,7,5.61
+b9,p4,thu,C,hn,no holiday,28,13.28
+b9,p4,thu,D,sg,no holiday,7,15.25
+b9,p4,thu,B,ct,no holiday,21,4.38
+b10,p0,thu,B,hn,no holiday,0,7.18
+b10,p0,tue,D,ct,no holiday,19,8.13
+b10,p0,sat,C,hn,no holiday,14,7.96
+b10,p0,sun,D,ct,no holiday,29,1.36
+b10,p0,wed,D,ct,no holiday,15,14.73
+b10,p0,mon,C,ct,no holiday,13,18.36
+b10,p0,tue,A,hn,no holiday,20,8.77
+b10,p0,wed,A,ct,no holiday,24,8.1
+b10,p0,fri,C,sg,no holiday,25,3.55
+b10,p0,fri,A,sg,no holiday,19,3.03
+b10,p0,sun,B,ct,no holiday,11,10.03
+b10,p0,sun,A,ct,no holiday,8,13.98
+b10,p0,sat,A,sg,no holiday,1,7.26
+b10,p0,sat,A,ct,no holiday,20,9.35
+b10,p0,sun,A,ct,no holiday,13,7.56
+b10,p0,sat,D,sg,no holiday,4,15.35
+b10,p0,wed,D,hn,no holiday,17,8.81
+b10,p0,fri,B,sg,no holiday,28,12.09
